@@ -27,8 +27,8 @@ const review = [
   },
   {
     id: 4,
-    name: "Stephen",
-    job: "Data Scientist",
+    name: "Stephen Kolawole",
+    job: "DATA SCIENTIST",
     img: "https://ca.slack-edge.com/TUCKAB1GU-UV1U7PQ93-0e3799261105-512",
     info:
       "A Software Engineer with a strong bias towards building Machine Learning applications. Possesses a tough mentality and natural leadership skills. Strives to consistently exceed expectations and enthusiastic about new challenges to increase knowledge and efficiency."
